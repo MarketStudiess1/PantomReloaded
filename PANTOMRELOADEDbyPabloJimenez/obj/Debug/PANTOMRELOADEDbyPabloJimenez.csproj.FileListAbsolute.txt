@@ -1,0 +1,13 @@
+C:\Quantower\Settings\Scripts\Indicators\PANTOMRELOADEDbyPabloJimenez\PANTOMRELOADEDbyPabloJimenez.deps.json
+C:\Quantower\Settings\Scripts\Indicators\PANTOMRELOADEDbyPabloJimenez\PANTOMRELOADEDbyPabloJimenez.dll
+C:\Quantower\Settings\Scripts\Indicators\PANTOMRELOADEDbyPabloJimenez\PANTOMRELOADEDbyPabloJimenez.pdb
+C:\Users\juan\source\repos\PANTOMRELOADEDbyPabloJimenez\obj\Debug\PANTOMRELOADEDbyPabloJimenez.csproj.AssemblyReference.cache
+C:\Users\juan\source\repos\PANTOMRELOADEDbyPabloJimenez\obj\Debug\PANTOMRELOADEDbyPabloJimenez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\source\repos\PANTOMRELOADEDbyPabloJimenez\obj\Debug\PANTOMRELOADEDbyPabloJimenez.AssemblyInfoInputs.cache
+C:\Users\juan\source\repos\PANTOMRELOADEDbyPabloJimenez\obj\Debug\PANTOMRELOADEDbyPabloJimenez.AssemblyInfo.cs
+C:\Users\juan\source\repos\PANTOMRELOADEDbyPabloJimenez\obj\Debug\PANTOMRELOADEDbyPabloJimenez.csproj.CoreCompileInputs.cache
+C:\Users\juan\source\repos\PANTOMRELOADEDbyPabloJimenez\obj\Debug\PANTOMRE.7E7C81CF.Up2Date
+C:\Users\juan\source\repos\PANTOMRELOADEDbyPabloJimenez\obj\Debug\PANTOMRELOADEDbyPabloJimenez.dll
+C:\Users\juan\source\repos\PANTOMRELOADEDbyPabloJimenez\obj\Debug\refint\PANTOMRELOADEDbyPabloJimenez.dll
+C:\Users\juan\source\repos\PANTOMRELOADEDbyPabloJimenez\obj\Debug\PANTOMRELOADEDbyPabloJimenez.pdb
+C:\Users\juan\source\repos\PANTOMRELOADEDbyPabloJimenez\obj\Debug\ref\PANTOMRELOADEDbyPabloJimenez.dll

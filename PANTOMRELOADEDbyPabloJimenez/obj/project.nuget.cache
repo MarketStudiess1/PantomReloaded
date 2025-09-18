@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eJWxObl6iSU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juan\\source\\repos\\PANTOMRELOADEDbyPabloJimenez\\PANTOMRELOADEDbyPabloJimenez.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juan\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.9\\microsoft.win32.systemevents.9.0.9.nupkg.sha512",
+    "C:\\Users\\juan\\.nuget\\packages\\system.drawing.common\\9.0.9\\system.drawing.common.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
